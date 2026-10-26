@@ -1,0 +1,14 @@
+# Temática: Espacio Profundo / Neón (Estación Umbral 3)
+
+## 🚀 Descripción del proyecto
+Mixtape 4.0 · Inauguración de la cabina personalizada para los turnos de la estación. Este proyecto incluye gestión de estado en React, componentes reutilizables, sistema interactivo de canciones favoritas y cola de pedidos en tiempo real.
+
+## 🛠️ ¿Qué hace tu componente (`TuComponente.jsx`)?
+El componente **Bitácora / Ánimo de la Cabina** permite cambiar interactivamente el estado de ánimo de la transmisión con botones de respuesta rápida (*Hiperespacio*, *Nocturno*, *Full Energía*), utilizando el hook `useState` y adaptándose a la paleta de colores del diseño.
+
+## 📸 Captura de pantalla
+*(Aquí puedes arrastrar y soltar la captura de pantalla de tu cabina o agregar el enlace de tu imagen)*
+![Captura de la Cabina](./captura-cabina.png)
+
+## 🔗 Enlace de despliegue
+- [Ver Mixtape en Vercel](mixtape-leccion4.vercel.app)
